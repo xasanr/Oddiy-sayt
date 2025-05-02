@@ -1,1 +1,1 @@
-# Oddiy-sayt
+# Uch sahifali oddiy sayt
